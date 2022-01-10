@@ -50,7 +50,7 @@ h1{
 }
 .background{
     width: fit-content;
-    margin: 1%;
+    margin: 2.5%;
     padding-left: 3%;
     padding-right: 5%;
 }
@@ -97,10 +97,18 @@ h1{
 }
 .color-2{
     color: white;
+    font-size: 40px;
+    font-family:monospace
 }
 .color-3{
-    color:tomato;
+    color:white;
+    font-size: 20px;
 }
 .body-legit{
-    margin: 7%;
+    margin: 6.5%;
+}
+.color-4{
+    color:tomato;
+    font-size: 40px;
+    font-family:monospace
 }
